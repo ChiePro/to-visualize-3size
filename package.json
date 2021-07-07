@@ -1,0 +1,24 @@
+{
+  "name": "to-visualize-3size",
+  "version": "1.0.0",
+  "description": "## Installation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chiebukuro-developers/to-visualize-3size.git"
+  },
+  "author": "Abenosan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chiebukuro-developers/to-visualize-3size/issues"
+  },
+  "homepage": "https://github.com/Chiebukuro-developers/to-visualize-3size#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-generator": "^4.16.0"
+  }
+}
